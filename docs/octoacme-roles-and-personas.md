@@ -151,10 +151,9 @@ UX Designers create intuitive, user-centered experiences by conducting research,
 
 ### Key Collaborations
 - Partners with **Product Managers** on user needs, feature prioritization, and success metrics
-- Works closely with **Developers** to ensure design feasibility and implementation fidelity
+- Works closely with **Developers** to ensure design feasibility, implementation fidelity, and acceptance criteria for UI/UX features
 - Collaborates with **Business Analysts** on user flows and requirements validation
 - Engages **Technical Writers** to align UI copy and help documentation
-- Coordinates with **Developers** on acceptance criteria for UI/UX features
 
 ---
 
