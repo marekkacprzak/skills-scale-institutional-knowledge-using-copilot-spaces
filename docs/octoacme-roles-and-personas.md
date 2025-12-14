@@ -24,7 +24,7 @@ This document defines typical roles and responsibilities used in OctoAcme projec
 Understanding how roles collaborate is essential for smooth handoffs and reducing single-person dependencies:
 
 - **Product to Engineering**: Product Manager defines "what" and "why" → Business Analyst documents detailed requirements → UX Designer creates user experience → Developers implement → DevOps Engineer deploys
-- **Design to Development**: UX Designer creates mockups → Developers review feasibility → Technical Writer documents UI → QA validates against acceptance criteria
+- **Design to Development**: UX Designer creates mockups → Developers review feasibility → Technical Writer documents UI → Developers validate against acceptance criteria
 - **Planning to Execution**: Product Manager prioritizes → Project Manager schedules → Scrum Master facilitates sprint planning → Team executes → All roles participate in retrospectives
 - **Release Coordination**: Project Manager coordinates → DevOps Engineer prepares infrastructure → Developers merge code → Technical Writer publishes release notes → Product Manager validates metrics
 
@@ -154,7 +154,7 @@ UX Designers create intuitive, user-centered experiences by conducting research,
 - Works closely with **Developers** to ensure design feasibility and implementation fidelity
 - Collaborates with **Business Analysts** on user flows and requirements validation
 - Engages **Technical Writers** to align UI copy and help documentation
-- Coordinates with **QA** on acceptance criteria for UI/UX features
+- Coordinates with **Developers** on acceptance criteria for UI/UX features
 
 ---
 
@@ -218,7 +218,7 @@ Business Analysts bridge the gap between business stakeholders and technical tea
 - Works closely with **Developers** to clarify requirements and validate technical feasibility
 - Collaborates with **UX Designers** on user flows and interface requirements
 - Engages **Project Managers** on scope, dependencies, and timelines
-- Supports **QA** in defining acceptance criteria and test scenarios
+- Supports **Developers** in defining acceptance criteria and test scenarios
 
 ---
 
@@ -313,7 +313,7 @@ To minimize risks from knowledge silos and single points of failure:
 2. **Documentation**: Technical Writers ensure runbooks, API docs, and process guides are kept current
 3. **Code Reviews**: Multiple Developers review each PR; Business Analysts validate requirements with multiple stakeholders
 4. **Shared Ownership**: Scrum Masters facilitate team-wide ownership; Project Managers maintain transparent risk registers
-5. **Regular Handoffs**: Use the Role Interaction Matrix to ensure clear handoff ceremonies (design → dev, dev → QA, QA → release)
+5. **Regular Handoffs**: Use the Role Interaction Matrix to ensure clear handoff ceremonies (design → dev, dev → review, review → release)
 6. **Backup Coverage**: Identify backup roles for critical responsibilities in the Project Charter
 
 ## Living Documentation
