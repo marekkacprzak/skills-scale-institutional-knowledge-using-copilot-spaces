@@ -214,10 +214,9 @@ Business Analysts bridge the gap between business stakeholders and technical tea
 
 ### Key Collaborations
 - Partners with **Product Managers** to refine product vision and prioritize features
-- Works closely with **Developers** to clarify requirements and validate technical feasibility
+- Works closely with **Developers** to clarify requirements, validate technical feasibility, and define acceptance criteria and test scenarios
 - Collaborates with **UX Designers** on user flows and interface requirements
 - Engages **Project Managers** on scope, dependencies, and timelines
-- Supports **Developers** in defining acceptance criteria and test scenarios
 
 ---
 
